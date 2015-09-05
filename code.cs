@@ -1,1 +1,1 @@
-dfsafadsf asdfasdf
+class {}
